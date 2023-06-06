@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hi, I'm Grace (she/her)! I'm part of the Tech Connect program at JPMC.
+
+Feel free to reach me by email or LinkedIn:
+
+liugrace929@gmail.com
+https://www.linkedin.com/in/gracejliu/
 
 <!--
 **liugrace929/liugrace929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
